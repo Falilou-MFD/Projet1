@@ -1,1 +1,1 @@
-pr("Hello Jenkins !")
+prin("Hello Jenkins !")
